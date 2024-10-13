@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Gentle GC
+## Notes: Run garbage collection without pause-the-world allocation
+## Author: Weird Vibes
+## Version: 1.0
+
+GentleGC.lua
